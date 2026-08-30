@@ -1,0 +1,8 @@
+tensorflow
+gradio
+MobileNet
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
